@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgres": {
+    "host": "reggaeshark.eu",
+    "port": 5432,
+    "url": "postgres://prestashop:prestashop@reggaeshark.eu:5432/Prestashop",
+    "database": "Prestashop",
+    "password": "prestashop",
+    "name": "postgres",
+    "user": "prestashop",
+    "connector": "postgresql"
+  }
+}
