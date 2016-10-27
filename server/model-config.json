@@ -39,5 +39,9 @@
   "CoffeeShop": {
     "dataSource": "postgres",
     "public": true
+  },
+  "Utilisateur": {
+    "dataSource": "postgres",
+    "public": true
   }
 }
