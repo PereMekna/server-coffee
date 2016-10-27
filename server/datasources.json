@@ -6,7 +6,7 @@
   "postgres": {
     "host": "reggaeshark.eu",
     "port": 5432,
-    "url": "postgres://prestashop:prestashop@reggaeshark.eu:5432/test",
+    "url": "postgres://postgres:postgres@reggaeshark.eu:5432/test",
     "database": "test",
     "password": "postgres",
     "name": "postgres",
