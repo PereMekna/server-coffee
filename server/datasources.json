@@ -6,11 +6,11 @@
   "postgres": {
     "host": "reggaeshark.eu",
     "port": 5432,
-    "url": "postgres://prestashop:prestashop@reggaeshark.eu:5432/Prestashop",
-    "database": "Prestashop",
-    "password": "prestashop",
+    "url": "postgres://prestashop:prestashop@reggaeshark.eu:5432/test",
+    "database": "test",
+    "password": "postgres",
     "name": "postgres",
-    "user": "prestashop",
+    "user": "postgres",
     "connector": "postgresql"
   }
 }
