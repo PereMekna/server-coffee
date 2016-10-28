@@ -44,5 +44,9 @@
   "Utilisateur": {
     "dataSource": "postgres",
     "public": true
+  },
+  "UserLocation": {
+    "dataSource": "postgres",
+    "public": true
   }
 }
